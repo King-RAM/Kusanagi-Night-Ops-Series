@@ -1,5 +1,7 @@
 # Kusanagi Night Ops Code of Conduct
 
+[English] | [日本語](CODE_OF_CONDUCT.ja.md)
+
 This Code of Conduct applies to all porjects in the Kusanagi Night Ops Series, including their repositories, issues, pull requests, discussions, and any related community spaces.
 
 Kusanagi Night Ops is focused on security tooling and red team research. Because this work can touch sensitive topics (offensive security, adversary simulation, red team tradecraft), we hold ourselves to a high standard of professionalism and responsibility.
