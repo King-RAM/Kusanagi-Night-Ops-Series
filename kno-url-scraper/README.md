@@ -393,6 +393,3 @@ For community rules and reporting, see `CODE_OF_CONDUCT.md`.
   PowerShell Edition – HTML mode, Night Ops, network gating/warnings.
 
 ---
-
-If you’d like, next step I can mirror this into a Japanese `README.ja.md` that keeps the same section structure and tone as your Code of Conduct.
-```
