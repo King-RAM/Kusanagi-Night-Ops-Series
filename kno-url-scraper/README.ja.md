@@ -411,6 +411,3 @@ Main URL: https://example.com -s -md --night-ops -sd 5m
 
 * `kno-url.ps1`
   PowerShell Edition – HTML モード、Night Ops、Network ゲーティングと警告（実キャプチャなし）。
-
-```
-```
